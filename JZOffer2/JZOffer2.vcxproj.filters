@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Chapter02">
+      <UniqueIdentifier>{8e5b5841-545c-4d29-8044-040311f8eadc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jz-2.1.cpp">
+      <Filter>源文件\Chapter02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
